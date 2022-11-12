@@ -9,7 +9,7 @@ Although, this is a required project, and my hands are tied here; this will serv
 
 I was curious about the difficulty of this course and having a step by step guide helpped ease that anxiety. Doing the Prework helped set the tone for my expectations of learning pace, time management, and educational style.
 
->*If anyone is reading this, [Notion](https://www.notion.so/) and [Xmind](https://xmind.app/) are great for code note taking purposes.*
+>*If anyone is reading this, [Notion](https://www.notion.so/) and [Xmind](https://xmind.app/) are great for code note-taking purposes.*
 
 ## Table of Contents
 
